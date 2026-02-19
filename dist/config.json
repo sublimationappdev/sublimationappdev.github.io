@@ -1,0 +1,12 @@
+{
+  "apiServerUrl": "https://api.example.com",
+  "rootDomain": "https://example.com",
+  "name": "CatalogWebApp-CpmEk7qn",
+  "languages": [
+    "he",
+    "en",
+    "ar"
+  ],
+  "defaultLang": "he",
+  "authEnabled": false
+}
